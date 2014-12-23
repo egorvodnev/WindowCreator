@@ -1,0 +1,27 @@
+C:\Users\VodnevEV\Desktop\Курсач\CupboardCreator\CupboardCreator\bin\Debug\CupboardCreator.dll
+C:\Users\VodnevEV\Desktop\Курсач\CupboardCreator\CupboardCreator\bin\Debug\CupboardCreator.pdb
+C:\Users\VodnevEV\Desktop\Курсач\CupboardCreator\CupboardCreator\bin\Debug\CupboardCreator.tlb
+C:\Users\VodnevEV\Desktop\Курсач\CupboardCreator\CupboardCreator\obj\Debug\WindowCreator.csprojResolveAssemblyReference.cache
+C:\Users\VodnevEV\Desktop\Курсач\CupboardCreator\CupboardCreator\obj\Debug\CupboardCreator.Properties.Resources.resources
+C:\Users\VodnevEV\Desktop\Курсач\CupboardCreator\CupboardCreator\obj\Debug\WindowCreator.csproj.GenerateResource.Cache
+C:\Users\VodnevEV\Desktop\Курсач\CupboardCreator\CupboardCreator\obj\Debug\CupboardCreator.dll
+C:\Users\VodnevEV\Desktop\Курсач\CupboardCreator\CupboardCreator\obj\Debug\CupboardCreator.pdb
+C:\Users\VodnevEV\Desktop\Курсач\CupboardCreator\CupboardCreator\obj\Debug\WindowCreator.MainWindow.resources
+C:\Users\VodnevEV\Desktop\Новая папка\CupboardCreator\CupboardCreator\bin\Debug\CupboardCreator.dll
+C:\Users\VodnevEV\Desktop\Новая папка\CupboardCreator\CupboardCreator\bin\Debug\CupboardCreator.pdb
+C:\Users\VodnevEV\Desktop\Новая папка\CupboardCreator\CupboardCreator\bin\Debug\CupboardCreator.tlb
+C:\Users\VodnevEV\Desktop\Новая папка\CupboardCreator\CupboardCreator\obj\Debug\WindowCreator.csprojResolveAssemblyReference.cache
+C:\Users\VodnevEV\Desktop\Новая папка\CupboardCreator\CupboardCreator\obj\Debug\WindowCreator.MainWindow.resources
+C:\Users\VodnevEV\Desktop\Новая папка\CupboardCreator\CupboardCreator\obj\Debug\CupboardCreator.Properties.Resources.resources
+C:\Users\VodnevEV\Desktop\Новая папка\CupboardCreator\CupboardCreator\obj\Debug\WindowCreator.csproj.GenerateResource.Cache
+C:\Users\VodnevEV\Desktop\Новая папка\CupboardCreator\CupboardCreator\obj\Debug\CupboardCreator.dll
+C:\Users\VodnevEV\Desktop\Новая папка\CupboardCreator\CupboardCreator\obj\Debug\CupboardCreator.pdb
+C:\Users\VodnevEV\Desktop\GoodOne\CupboardCreator\CupboardCreator\bin\Debug\CupboardCreator.dll
+C:\Users\VodnevEV\Desktop\GoodOne\CupboardCreator\CupboardCreator\bin\Debug\CupboardCreator.pdb
+C:\Users\VodnevEV\Desktop\GoodOne\CupboardCreator\CupboardCreator\bin\Debug\CupboardCreator.tlb
+C:\Users\VodnevEV\Desktop\GoodOne\CupboardCreator\CupboardCreator\obj\Debug\WindowCreator.csprojResolveAssemblyReference.cache
+C:\Users\VodnevEV\Desktop\GoodOne\CupboardCreator\CupboardCreator\obj\Debug\CupboardCreator.Properties.Resources.resources
+C:\Users\VodnevEV\Desktop\GoodOne\CupboardCreator\CupboardCreator\obj\Debug\WindowCreator.csproj.GenerateResource.Cache
+C:\Users\VodnevEV\Desktop\GoodOne\CupboardCreator\CupboardCreator\obj\Debug\CupboardCreator.dll
+C:\Users\VodnevEV\Desktop\GoodOne\CupboardCreator\CupboardCreator\obj\Debug\CupboardCreator.pdb
+C:\Users\VodnevEV\Desktop\GoodOne\CupboardCreator\CupboardCreator\obj\Debug\WindowCreator.MainWindow.resources

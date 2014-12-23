@@ -1,0 +1,17 @@
+D:\C# projects\CupboardCreator\CupboardCreator\bin\Debug\CupboardCreator.dll
+D:\C# projects\CupboardCreator\CupboardCreator\bin\Debug\CupboardCreator.pdb
+D:\C# projects\CupboardCreator\CupboardCreator\bin\Debug\CupboardCreator.tlb
+D:\C# projects\CupboardCreator\CupboardCreator\obj\Debug\CupboardCreator.Properties.Resources.resources
+D:\C# projects\CupboardCreator\CupboardCreator\obj\Debug\CupboardCreator.csproj.GenerateResource.Cache
+D:\C# projects\CupboardCreator\CupboardCreator\obj\Debug\CupboardCreator.dll
+D:\C# projects\CupboardCreator\CupboardCreator\obj\Debug\CupboardCreator.pdb
+D:\C# projects\CupboardCreator\CupboardCreator\obj\Debug\CupboardCreator.MainWindow.resources
+C:\Users\VodnevEV\Desktop\Курсач\CupboardCreator\CupboardCreator\bin\Debug\CupboardCreator.dll
+C:\Users\VodnevEV\Desktop\Курсач\CupboardCreator\CupboardCreator\bin\Debug\CupboardCreator.pdb
+C:\Users\VodnevEV\Desktop\Курсач\CupboardCreator\CupboardCreator\bin\Debug\CupboardCreator.tlb
+C:\Users\VodnevEV\Desktop\Курсач\CupboardCreator\CupboardCreator\obj\Debug\CupboardCreator.csprojResolveAssemblyReference.cache
+C:\Users\VodnevEV\Desktop\Курсач\CupboardCreator\CupboardCreator\obj\Debug\CupboardCreator.MainWindow.resources
+C:\Users\VodnevEV\Desktop\Курсач\CupboardCreator\CupboardCreator\obj\Debug\CupboardCreator.Properties.Resources.resources
+C:\Users\VodnevEV\Desktop\Курсач\CupboardCreator\CupboardCreator\obj\Debug\CupboardCreator.csproj.GenerateResource.Cache
+C:\Users\VodnevEV\Desktop\Курсач\CupboardCreator\CupboardCreator\obj\Debug\CupboardCreator.dll
+C:\Users\VodnevEV\Desktop\Курсач\CupboardCreator\CupboardCreator\obj\Debug\CupboardCreator.pdb
